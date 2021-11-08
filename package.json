@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/9996rojit/Graphql_Basic_Api#readme",
   "dependencies": {
-    "apollo-server": "^2.21.0",
+    "apollo-server": "^2.25.3",
     "graphql": "^15.5.0"
   }
 }
